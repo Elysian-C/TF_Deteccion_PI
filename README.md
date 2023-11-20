@@ -1,4 +1,4 @@
-# TF_Deteccion_PI
+# Deteccion de personas y carros
 Trabajo final del curso de procesamiento de imagenes
 
 Para ejecutar los archivos:
